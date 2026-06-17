@@ -14,7 +14,7 @@ export const t = {
       cta1: 'Book a consultation ↗',
       cta2: 'What do I need? ↗',
       whatsapp: 'https://wa.me/919841515182',
-      email: 'mailto:info@indiandocumentationservices.com',
+      email: 'mailto:southasialawfirm@gmail.com',
     },
     disclaimer: {
       label: 'Important:',
@@ -156,7 +156,7 @@ export const t = {
       cta1: 'ஆலோசனை பதிவு செய்யுங்கள் ↗',
       cta2: 'எனக்கு என்ன தேவை? ↗',
       whatsapp: 'https://wa.me/919841515182',
-      email: 'mailto:info@indiandocumentationservices.com',
+      email: 'mailto:southasialawfirm@gmail.com',
     },
     disclaimer: {
       label: 'முக்கியம்:',
