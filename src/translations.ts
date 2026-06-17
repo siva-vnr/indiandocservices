@@ -13,7 +13,7 @@ export const t = {
         'Serving NRIs, Persons of Indian Origin, and the Indian community in Singapore for all India-related legal, notarial, and documentation needs — under Indian law.',
       cta1: 'Book a consultation ↗',
       cta2: 'What do I need? ↗',
-      whatsapp: 'https://wa.me/6500000000',
+      whatsapp: 'https://wa.me/919841515182',
       email: 'mailto:info@indiandocumentationservices.com',
     },
     disclaimer: {
@@ -155,7 +155,7 @@ export const t = {
         'சிங்கப்பூரில் உள்ள NRI கள், இந்திய வம்சாவளியினர் மற்றும் இந்திய சமூகத்தினருக்கு அனைத்து இந்தியா தொடர்பான சட்ட, நோட்டரி மற்றும் ஆவண தேவைகளுக்காக — இந்திய சட்டத்தின் கீழ்.',
       cta1: 'ஆலோசனை பதிவு செய்யுங்கள் ↗',
       cta2: 'எனக்கு என்ன தேவை? ↗',
-      whatsapp: 'https://wa.me/6500000000',
+      whatsapp: 'https://wa.me/919841515182',
       email: 'mailto:info@indiandocumentationservices.com',
     },
     disclaimer: {
