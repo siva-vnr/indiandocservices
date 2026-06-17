@@ -140,7 +140,7 @@ export const t = {
       nav: ['Services', 'About', 'Contact'],
       navAnchors: ['#services', '#about', '#contact'],
       whatsapp: 'WhatsApp enquiries welcome',
-      copyright: '© 2025 Indian Documentation Services Pte. Ltd.',
+      copyright: '© 2026 Indian Documentation Services Pte. Ltd.',
     },
   },
   ta: {
@@ -282,7 +282,7 @@ export const t = {
       nav: ['சேவைகள்', 'பற்றி', 'தொடர்பு'],
       navAnchors: ['#services', '#about', '#contact'],
       whatsapp: 'WhatsApp விசாரணைகள் வரவேற்கப்படுகின்றன',
-      copyright: '© 2025 இந்திய ஆவண சேவைகள் பிரைவேட் லிமிடெட்',
+      copyright: '© 2026 இந்திய ஆவண சேவைகள் பிரைவேட் லிமிடெட்',
     },
   },
 } as const
