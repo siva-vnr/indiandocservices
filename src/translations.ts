@@ -8,43 +8,43 @@ export const t = {
       companyShort: 'IDS Pte. Ltd.',
     },
     hero: {
-      headline: 'Your Indian legal documentation partner in Singapore',
+      headline: 'Your Indian legal documentation partner — worldwide',
       subtext:
-        'Serving NRIs, Persons of Indian Origin, and the Indian community in Singapore for all India-related legal, notarial, and documentation needs — under Indian law.',
+        'Serving NRIs, Persons of Indian Origin, and the Indian community across the globe for all India-related legal, notarial, and documentation needs — under Indian law.',
       cta1: 'Book a consultation ↗',
       cta2: 'What do I need? ↗',
-      whatsapp: 'https://wa.me/919841515182',
+      whatsapp: 'https://wa.me/6596521251',
       email: 'mailto:southasialawfirm@gmail.com',
     },
     disclaimer: {
       label: 'Important:',
-      text: 'Indian Documentation Services Pte. Ltd. provides legal services exclusively under Indian law. We do not advise on Singapore law matters. For Singapore legal matters, please consult a Singapore-qualified advocate and solicitor.',
+      text: 'Indian Documentation Services Pte. Ltd. provides legal services exclusively under Indian law, serving Indian-origin clients worldwide. We do not advise on local law matters in other jurisdictions. For local legal matters, please consult a locally qualified advocate.',
     },
     whoWeServe: {
       title: 'WHO WE SERVE',
       cards: [
         {
-          title: 'NRIs & PIOs in Singapore',
-          desc: 'Indian nationals and persons of Indian origin needing India-side legal support',
+          title: 'NRIs & PIOs Worldwide',
+          desc: 'Indian nationals and persons of Indian origin living in any country needing India-side legal support',
         },
         {
-          title: 'Singapore companies',
-          desc: 'Businesses with India operations, contracts, or cross-border transactions',
+          title: 'Companies with India operations',
+          desc: 'Businesses worldwide with India operations, contracts, or cross-border transactions',
         },
         {
           title: 'Property owners',
-          desc: 'Individuals managing Indian property from Singapore — sale, purchase, inheritance',
+          desc: 'Individuals managing Indian property from abroad — sale, purchase, inheritance',
         },
         {
           title: 'Tamil community',
-          desc: "Bilingual service in English and Tamil for Singapore's Tamil-speaking community",
+          desc: 'Bilingual service in English and Tamil for the Tamil-speaking diaspora worldwide',
         },
       ],
     },
     services: {
-      title: 'SERVICES — INDIAN LAW ONLY',
+      title: 'SERVICES',
       subtext:
-        'All services are rendered exclusively under Indian law and for use in India or with Indian authorities.',
+        'All services are rendered under Indian law for Indian-origin clients worldwide — for use in India or with Indian authorities.',
       items: [
         {
           title: 'Power of Attorney',
@@ -52,7 +52,7 @@ export const t = {
         },
         {
           title: 'Notarisation & Apostille',
-          desc: 'Singapore-executed documents notarised and Apostilled for submission in India',
+          desc: 'Singapore-executed documents notarised and Apostilled for submission in other country — same-day processing',
         },
         {
           title: 'Legal heirship & succession',
@@ -72,7 +72,7 @@ export const t = {
         },
         {
           title: 'NRI legal advisory',
-          desc: 'Indian law guidance for Singapore-based NRIs on property, inheritance, and civil matters',
+          desc: 'Indian law guidance for overseas NRIs anywhere in the world on property, inheritance, and civil matters',
         },
         {
           title: 'Document legalisation',
@@ -86,6 +86,10 @@ export const t = {
           title: 'Tamil Nadu government liaison',
           desc: 'NRTWB, succession, property, and official matters with Tamil Nadu authorities',
         },
+        {
+          title: 'Translation',
+          desc: 'Certified translation of Indian legal documents — 2 days processing time',
+        },
       ],
     },
     credentials: {
@@ -94,9 +98,9 @@ export const t = {
         {
           label: 'Advocate',
           value: 'Bar Council of Tamil Nadu & Puducherry',
-          sub: 'Roll No. 134/2012',
+          sub: 'Roll No. 314/2012 · Enrolled: 7 Jan 2012',
         },
-        { label: 'Court', value: 'Madras High Court practitioner', sub: '' },
+        { label: 'FLR', value: 'Foreign Lawyer Registration', sub: 'SIC/RFL 42/225' },
         {
           label: 'Affiliation',
           value: 'WLAW LLC / South Asia Lex (SAL) Legal Services LLP',
@@ -136,10 +140,12 @@ export const t = {
     footer: {
       company: 'Indian Documentation Services Pte. Ltd.',
       uen: 'UEN: 202502835H · Singapore',
+      address: 'No 42 Cuff Road #2A2, Singapore 209752',
       payment: 'Payment: PayNow / OCBC',
       nav: ['Services', 'About', 'Contact'],
       navAnchors: ['#services', '#about', '#contact'],
       whatsapp: 'WhatsApp enquiries welcome',
+      instagram: 'https://www.instagram.com/southasialawfirm/',
       copyright: '© 2026 Indian Documentation Services Pte. Ltd.',
     },
   },
@@ -150,43 +156,43 @@ export const t = {
       companyShort: 'IDS Pte. Ltd.',
     },
     hero: {
-      headline: 'சிங்கப்பூரில் உங்கள் இந்திய சட்ட ஆவண பங்காளி',
+      headline: 'உலகெங்கும் உள்ள இந்திய வம்சாவளியினருக்கான சட்ட ஆவண பங்காளி',
       subtext:
-        'சிங்கப்பூரில் உள்ள NRI கள், இந்திய வம்சாவளியினர் மற்றும் இந்திய சமூகத்தினருக்கு அனைத்து இந்தியா தொடர்பான சட்ட, நோட்டரி மற்றும் ஆவண தேவைகளுக்காக — இந்திய சட்டத்தின் கீழ்.',
+        'உலகின் எந்த நாட்டில் வசிக்கும் NRI கள், இந்திய வம்சாவளியினர் மற்றும் இந்திய சமூகத்தினருக்கு அனைத்து இந்தியா தொடர்பான சட்ட, நோட்டரி மற்றும் ஆவண தேவைகளுக்காக — இந்திய சட்டத்தின் கீழ்.',
       cta1: 'ஆலோசனை பதிவு செய்யுங்கள் ↗',
       cta2: 'எனக்கு என்ன தேவை? ↗',
-      whatsapp: 'https://wa.me/919841515182',
+      whatsapp: 'https://wa.me/6596521251',
       email: 'mailto:southasialawfirm@gmail.com',
     },
     disclaimer: {
       label: 'முக்கியம்:',
-      text: 'இந்திய ஆவண சேவைகள் பிரைவேட் லிமிடெட் இந்திய சட்டத்தின் கீழ் மட்டுமே சட்ட சேவைகளை வழங்குகிறது. சிங்கப்பூர் சட்ட விஷயங்களில் நாங்கள் ஆலோசனை வழங்குவதில்லை. சிங்கப்பூர் சட்ட விஷயங்களுக்கு, சிங்கப்பூர் தகுதிவாய்ந்த வழக்கறிஞரை அணுகவும்.',
+      text: 'இந்திய ஆவண சேவைகள் பிரைவேட் லிமிடெட் உலகெங்கும் உள்ள இந்திய வம்சாவளி வாடிக்கையாளர்களுக்கு இந்திய சட்டத்தின் கீழ் மட்டுமே சட்ட சேவைகளை வழங்குகிறது. மற்ற நாடுகளின் உள்ளூர் சட்ட விஷயங்களில் நாங்கள் ஆலோசனை வழங்குவதில்லை. உள்ளூர் சட்ட விஷயங்களுக்கு, உங்கள் நாட்டில் தகுதிவாய்ந்த வழக்கறிஞரை அணுகவும்.',
     },
     whoWeServe: {
       title: 'நாங்கள் யாருக்கு சேவை செய்கிறோம்',
       cards: [
         {
-          title: 'சிங்கப்பூரில் NRI மற்றும் PIO',
-          desc: 'இந்திய வம்சாவளி நபர்கள் மற்றும் இந்திய தேசிகர்களுக்கு இந்தியா தொடர்பான சட்ட ஆதரவு',
+          title: 'உலகெங்கும் NRI மற்றும் PIO',
+          desc: 'எந்த நாட்டிலும் வசிக்கும் இந்திய வம்சாவளி நபர்கள் மற்றும் இந்திய தேசிகர்களுக்கு இந்தியா தொடர்பான சட்ட ஆதரவு',
         },
         {
-          title: 'சிங்கப்பூர் நிறுவனங்கள்',
-          desc: 'இந்தியாவில் செயல்பாடுகள், ஒப்பந்தங்கள் அல்லது கடல் கடந்த பரிவர்த்தனைகள் கொண்ட வணிகங்கள்',
+          title: 'இந்தியா செயல்பாடுகள் கொண்ட நிறுவனங்கள்',
+          desc: 'உலகெங்கும் உள்ள இந்தியாவில் செயல்பாடுகள், ஒப்பந்தங்கள் அல்லது கடல் கடந்த பரிவர்த்தனைகள் கொண்ட வணிகங்கள்',
         },
         {
           title: 'சொத்து உரிமையாளர்கள்',
-          desc: 'சிங்கப்பூரிலிருந்து இந்திய சொத்துக்களை நிர்வகிக்கும் நபர்கள் — விற்பனை, கொள்முதல், மரபுரிமை',
+          desc: 'வெளிநாட்டிலிருந்து இந்திய சொத்துக்களை நிர்வகிக்கும் நபர்கள் — விற்பனை, கொள்முதல், மரபுரிமை',
         },
         {
           title: 'தமிழ் சமூகம்',
-          desc: 'சிங்கப்பூரின் தமிழ் பேசும் சமூகத்திற்கு ஆங்கிலம் மற்றும் தமிழில் இருமொழி சேவை',
+          desc: 'உலகெங்கும் உள்ள தமிழ் பேசும் சமூகத்திற்கு ஆங்கிலம் மற்றும் தமிழில் இருமொழி சேவை',
         },
       ],
     },
     services: {
-      title: 'சேவைகள் — இந்திய சட்டம் மட்டும்',
+      title: 'சேவைகள்',
       subtext:
-        'அனைத்து சேவைகளும் இந்திய சட்டத்தின் கீழ் மட்டுமே மற்றும் இந்தியாவில் அல்லது இந்திய அதிகாரிகளுடன் பயன்பாட்டிற்கு வழங்கப்படுகின்றன.',
+        'உலகெங்கும் உள்ள இந்திய வம்சாவளி வாடிக்கையாளர்களுக்கு அனைத்து சேவைகளும் இந்திய சட்டத்தின் கீழ் — இந்தியாவில் அல்லது இந்திய அதிகாரிகளுடன் பயன்பாட்டிற்கு வழங்கப்படுகின்றன.',
       items: [
         {
           title: 'பவர் ஆஃப் அட்டர்னி',
@@ -194,7 +200,7 @@ export const t = {
         },
         {
           title: 'நோட்டரிசேஷன் & அப்போஸ்டில்',
-          desc: 'சிங்கப்பூரில் செயல்படுத்தப்பட்ட ஆவணங்கள் இந்தியாவில் சமர்ப்பிக்க நோட்டரி மற்றும் அப்போஸ்டில் செய்யப்பட்டவை',
+          desc: 'சிங்கப்பூரில் செயல்படுத்தப்பட்ட ஆவணங்கள் மற்ற நாடுகளில் சமர்ப்பிக்க நோட்டரி மற்றும் அப்போஸ்டில் செய்யப்பட்டவை — அதே நாள் செயலாக்கம்',
         },
         {
           title: 'சட்ட வாரிசு & வாரிசுரிமை',
@@ -214,7 +220,7 @@ export const t = {
         },
         {
           title: 'NRI சட்ட ஆலோசனை',
-          desc: 'சிங்கப்பூர் NRI களுக்கு சொத்து, மரபுரிமை மற்றும் சிவில் விஷயங்களில் இந்திய சட்ட வழிகாட்டுதல்',
+          desc: 'உலகின் எந்த நாட்டிலும் வசிக்கும் NRI களுக்கு சொத்து, மரபுரிமை மற்றும் சிவில் விஷயங்களில் இந்திய சட்ட வழிகாட்டுதல்',
         },
         {
           title: 'ஆவண சட்டப்பூர்வமாக்கல்',
@@ -228,6 +234,10 @@ export const t = {
           title: 'தமிழ்நாடு அரசு தொடர்பு',
           desc: 'NRTWB, வாரிசுரிமை, சொத்து மற்றும் தமிழ்நாடு அதிகாரிகளுடன் அதிகாரப்பூர்வ விஷயங்கள்',
         },
+        {
+          title: 'மொழிபெயர்ப்பு',
+          desc: 'இந்திய சட்ட ஆவணங்களின் சான்றிதழ் மொழிபெயர்ப்பு — 2 நாள் செயலாக்க நேரம்',
+        },
       ],
     },
     credentials: {
@@ -236,9 +246,9 @@ export const t = {
         {
           label: 'வழக்கறிஞர்',
           value: 'தமிழ்நாடு மற்றும் புதுச்சேரி வழக்கறிஞர் கவுன்சில்',
-          sub: 'ரோல் எண். 134/2012',
+          sub: 'ரோல் எண். 314/2012 · சேர்க்கை: 7 ஜன 2012',
         },
-        { label: 'நீதிமன்றம்', value: 'மதராஸ் உயர் நீதிமன்ற வழக்கறிஞர்', sub: '' },
+        { label: 'FLR', value: 'வெளிநாட்டு வழக்கறிஞர் பதிவு', sub: 'SIC/RFL 42/225' },
         {
           label: 'இணைப்பு',
           value: 'WLAW LLC / South Asia Lex (SAL) Legal Services LLP',
@@ -278,10 +288,12 @@ export const t = {
     footer: {
       company: 'இந்திய ஆவண சேவைகள் பிரைவேட் லிமிடெட்',
       uen: 'UEN: 202502835H · சிங்கப்பூர்',
+      address: 'எண் 42 கஃப் ரோடு #2A2, சிங்கப்பூர் 209752',
       payment: 'கட்டணம்: PayNow / OCBC',
       nav: ['சேவைகள்', 'பற்றி', 'தொடர்பு'],
       navAnchors: ['#services', '#about', '#contact'],
       whatsapp: 'WhatsApp விசாரணைகள் வரவேற்கப்படுகின்றன',
+      instagram: 'https://www.instagram.com/southasialawfirm/',
       copyright: '© 2026 இந்திய ஆவண சேவைகள் பிரைவேட் லிமிடெட்',
     },
   },

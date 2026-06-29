@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from 'next'
-import { Inter, Noto_Sans_Tamil } from 'next/font/google'
+import { Inter, Catamaran } from 'next/font/google'
 import './globals.css'
 
 const inter = Inter({
@@ -8,7 +8,7 @@ const inter = Inter({
   display: 'swap',
 })
 
-const notoSansTamil = Noto_Sans_Tamil({
+const catamaran = Catamaran({
   subsets: ['tamil'],
   variable: '--font-noto-tamil',
   display: 'swap',
@@ -39,7 +39,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${inter.variable} ${notoSansTamil.variable} font-sans antialiased`}>
+      <body className={`${inter.variable} ${catamaran.variable} font-sans antialiased`}>
         {children}
       </body>
     </html>
