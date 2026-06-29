@@ -18,6 +18,9 @@ export default function Footer({ lang }: FooterProps) {
             </p>
             <p className="text-xs text-muted">{s.uen}</p>
             <p className={`text-xs text-muted mt-1 ${lang === 'ta' ? 'font-tamil' : ''}`}>
+              {s.address}
+            </p>
+            <p className={`text-xs text-muted mt-1 ${lang === 'ta' ? 'font-tamil' : ''}`}>
               {s.payment}
             </p>
           </div>
@@ -43,7 +46,20 @@ export default function Footer({ lang }: FooterProps) {
             </a>
           </div>
         </div>
-        <div className="border-t border-gray-200 pt-4">
+        <div className="border-t border-gray-200 pt-4 flex flex-col items-center gap-3">
+          <a
+            href={s.instagram}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Instagram"
+            className="text-muted hover:text-navy transition-colors"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+              <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
+              <circle cx="12" cy="12" r="4"/>
+              <circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/>
+            </svg>
+          </a>
           <p className={`text-xs text-muted text-center ${lang === 'ta' ? 'font-tamil' : ''}`}>
             {s.copyright}
           </p>
