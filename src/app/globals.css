@@ -8,6 +8,7 @@ html {
 
 body {
   @apply bg-white text-[#1A1A1A];
+  overflow-x: hidden;
 }
 
 /* Gold divider accent */
