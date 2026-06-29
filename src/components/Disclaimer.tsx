@@ -11,7 +11,7 @@ export default function Disclaimer({ lang }: DisclaimerProps) {
     <div className="bg-disclaimer border border-disclaimer-border px-4 py-4">
       <div className="max-w-5xl mx-auto">
         <p
-          className={`text-sm text-amber-900 leading-relaxed ${
+          className={`text-sm text-amber-900 leading-relaxed break-words ${
             lang === 'ta' ? 'font-tamil' : ''
           }`}
         >
