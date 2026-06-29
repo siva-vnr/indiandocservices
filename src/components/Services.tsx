@@ -18,7 +18,7 @@ export default function Services({ lang }: ServicesProps) {
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {s.items.map((item, i) => (
-            <div key={i} className="border border-gray-200 rounded-lg p-5">
+            <div key={i} className="border border-[#C4863A]/40 rounded-lg p-5 bg-white hover:border-[#C4863A] transition-colors">
               <h3 className={`font-semibold text-navy mb-2 ${lang === 'ta' ? 'font-tamil' : ''}`}>
                 {item.title}
               </h3>

@@ -16,7 +16,7 @@ export default function HowItWorks({ lang }: HowItWorksProps) {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           {s.steps.map((step, i) => (
             <div key={i} className="flex flex-col">
-              <div className="w-8 h-8 rounded-full bg-navy text-white flex items-center justify-center text-sm font-bold mb-3 flex-shrink-0">
+              <div className="w-8 h-8 rounded-full bg-[#C4863A] text-white flex items-center justify-center text-sm font-bold mb-3 flex-shrink-0">
                 {i + 1}
               </div>
               <p className={`text-xs uppercase tracking-widest text-muted mb-1 ${lang === 'ta' ? 'font-tamil' : ''}`}>

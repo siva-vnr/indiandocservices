@@ -9,12 +9,12 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        navy: '#1B3A6B',
-        gold: '#C9A84C',
-        surface: '#F8F9FA',
-        disclaimer: '#FEF3C7',
-        'disclaimer-border': '#92400E',
-        muted: '#6B7280',
+        navy: '#1A3D2B',
+        gold: '#C4863A',
+        surface: '#FAF6F0',
+        disclaimer: '#ECFDF5',
+        'disclaimer-border': '#1A3D2B',
+        muted: '#5C6B5E',
       },
       fontFamily: {
         sans: ['var(--font-inter)', 'sans-serif'],
